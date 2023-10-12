@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.inno.firstframe.FirstFrame"
+			"net.inno.firstframe.FirstFrame
 		],
 		"client": [
 			"net.inno.firstframe.FirstFrameClient"
