@@ -14,8 +14,8 @@ public class ModItemGroups {
             new Identifier(FirstFrame.MOD_ID, "first_frame"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.first_frame"))
                     .icon(() -> new ItemStack(ModItems.PAINT_EMPTY)).entries((displayContext, entries) -> {
-                        entries.add(ModItems.SWIRLING_BOTTLE);
                         entries.add(ModItems.PAINT_EMPTY);
+                        entries.add(ModItems.SWIRLING_BOTTLE);
 
                     }).build());
 
