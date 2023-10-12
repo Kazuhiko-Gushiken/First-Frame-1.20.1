@@ -11,6 +11,6 @@ public class FirstFrame implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric Player!");
+		LOGGER.info("Hello Fabric Player! Welcome to a world like no other.");
 	}
 }
