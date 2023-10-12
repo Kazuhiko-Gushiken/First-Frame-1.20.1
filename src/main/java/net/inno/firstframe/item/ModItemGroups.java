@@ -2,6 +2,7 @@ package net.inno.firstframe.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.inno.firstframe.FirstFrame;
+import net.inno.firstframe.block.ModBlocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -33,6 +34,8 @@ public class ModItemGroups {
                         entries.add(ModItems.PAINT_BLACK);
                         entries.add(ModItems.PAINT_LACQUER);
                         entries.add(ModItems.SWIRLING_BOTTLE);
+                        entries.add(ModBlocks.HEPATIZON_BLOCK);
+                        entries.add(ModBlocks.GLASS_CRYSTAL_BLOCK);
 
                     }).build());
 

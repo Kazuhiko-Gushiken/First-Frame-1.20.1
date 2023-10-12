@@ -2,6 +2,7 @@ package net.inno.firstframe;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.inno.firstframe.block.ModBlocks;
 import net.inno.firstframe.item.ModItemGroups;
 import net.inno.firstframe.item.ModItems;
 import org.slf4j.Logger;
@@ -16,5 +17,6 @@ public class FirstFrame implements ModInitializer {
 		LOGGER.info("Hello Fabric Player! Welcome to a world like no other.");
 		ModItems.registerModItems();
 		ModItemGroups.registerItemsGroups();
+		ModBlocks.registerModBlocks();
 	}
 }

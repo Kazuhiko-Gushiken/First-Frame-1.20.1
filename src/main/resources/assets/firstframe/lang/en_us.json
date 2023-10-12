@@ -18,5 +18,8 @@
   "item.firstframe.paint_white": "White Paint Bucket",
   "item.firstframe.paint_yellow": "Yellow Paint Bucket",
 
+  "block.firstframe.hepatizon_block": "Block of Hepatizon",
+  "block.firstframe.glass_crystal_block": "Block of Glass Crystal",
+
   "itemgroup.first_frame": "First Frame"
 }
