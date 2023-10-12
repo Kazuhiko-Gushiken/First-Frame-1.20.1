@@ -15,6 +15,23 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.first_frame"))
                     .icon(() -> new ItemStack(ModItems.PAINT_EMPTY)).entries((displayContext, entries) -> {
                         entries.add(ModItems.PAINT_EMPTY);
+                        entries.add(ModItems.PAINT_WHITE);
+                        entries.add(ModItems.PAINT_ORANGE);
+                        entries.add(ModItems.PAINT_MAGENTA);
+                        entries.add(ModItems.PAINT_LIGHTBLUE);
+                        entries.add(ModItems.PAINT_YELLOW);
+                        entries.add(ModItems.PAINT_LIME);
+                        entries.add(ModItems.PAINT_PINK);
+                        entries.add(ModItems.PAINT_GRAY);
+                        entries.add(ModItems.PAINT_SILVER);
+                        entries.add(ModItems.PAINT_CYAN);
+                        entries.add(ModItems.PAINT_PURPLE);
+                        entries.add(ModItems.PAINT_BLUE);
+                        entries.add(ModItems.PAINT_BROWN);
+                        entries.add(ModItems.PAINT_GREEN);
+                        entries.add(ModItems.PAINT_RED);
+                        entries.add(ModItems.PAINT_BLACK);
+                        entries.add(ModItems.PAINT_LACQUER);
                         entries.add(ModItems.SWIRLING_BOTTLE);
 
                     }).build());

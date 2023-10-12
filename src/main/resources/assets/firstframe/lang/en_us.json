@@ -1,6 +1,22 @@
 {
   "item.firstframe.swirling_bottle": "Swirling Bottle",
   "item.firstframe.paint_empty": "Empty Paint Bucket",
+  "item.firstframe.paint_black": "Black Paint Bucket",
+  "item.firstframe.paint_blue": "Blue Paint Bucket",
+  "item.firstframe.paint_brown": "Brown Paint Bucket",
+  "iten.firstframe.paint_cyan": "Cyan Paint Bucket",
+  "item.firstframe.paint_gray": "Gray Paint Bucket",
+  "item.firstframe.paint_green": "Green Paint Bucket",
+  "item.firstframe.paint_lacquer": "Lacquer Paint Bucket",
+  "item.firstframe.paint_lime": "Lime Paint Bucket",
+  "item.firstframe.paint_magenta": "Magenta Paint Bucket",
+  "item.firstframe.paint_orange": "Orange Paint Bucket",
+  "item.firstframe.paint_pink": "Pink Paint Bucket",
+  "item.firstframe.paint_purple": "Purple Paint Bucket",
+  "item.firstframe.paint_red": "Red Paint Bucket",
+  "item.firstframe.paint_silver": "Silver Paint Bucket",
+  "item.firstframe.paint_white": "White Paint Bucket",
+  "item.firstframe.paint_yellow": "Yellow Paint Bucket",
 
   "itemgroup.first_frame": "First Frame"
 }
