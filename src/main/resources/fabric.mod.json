@@ -3,7 +3,7 @@
 	"id": "firstframe",
 	"version": "${version}",
 	"name": "First Frame",
-	"description": "This is my first mod! ID: First Frame",
+	"description": "Hello Fabric Player! This is my first mod and as of the moment I am writing this, I have zero knowledge of Java/JavaScript/JavaScriptObjectNotation. If you're seeing this, I reached my goal of learning enough to produce something you will play!",
 	"authors": [
 		"Inno!"
 	],
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/firstframe/icon.png",
+	"icon": "replace",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
