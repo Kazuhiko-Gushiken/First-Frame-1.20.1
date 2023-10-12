@@ -12,9 +12,10 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
     public static final Item SWIRLING_BOTTLE = regiterItem("swirling_bottle", new Item(new FabricItemSettings()));
+    public static final Item PAINT_EMPTY = regiterItem("paint_empty", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
-        entries.add(SWIRLING_BOTTLE);
+
     }
 
     private static Item regiterItem(String name, Item item) {

@@ -1,3 +1,6 @@
 {
-  "item.firstframe.swirling_bottle": "Swirling Bottle"
+  "item.firstframe.swirling_bottle": "Swirling Bottle",
+  "item.firstframe.paint_empty": "Empty Paint Bucket",
+
+  "itemgroup.first_frame": "First Frame"
 }
