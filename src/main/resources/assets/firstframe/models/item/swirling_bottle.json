@@ -1,6 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "firstframe:item/swirling_bottle"
+    "layer0": "firstframe:item/swirling_bottle",
+    "layer1": "firstframe:item/alchemy_bottle_warded"
   }
 }
