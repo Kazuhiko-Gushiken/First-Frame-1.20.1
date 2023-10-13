@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "minecraft:clock"
+    },
+    "S": {
+      "item": "minecraft:netherite_block"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SFS",
+    "SSS"
+  ],
+  "result": {
+    "item": "firstframe:sound_block"
+  },
+  "show_notification": true
+}

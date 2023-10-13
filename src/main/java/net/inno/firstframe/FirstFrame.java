@@ -2,7 +2,9 @@ package net.inno.firstframe;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.inno.firstframe.block.ModBlocks;
+import net.inno.firstframe.item.ModFuelItems;
 import net.inno.firstframe.item.ModItemGroups;
 import net.inno.firstframe.item.ModItems;
 import org.slf4j.Logger;
@@ -18,5 +20,6 @@ public class FirstFrame implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroups.registerItemsGroups();
 		ModBlocks.registerModBlocks();
+		ModFuelItems.init();
 	}
 }

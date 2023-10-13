@@ -1,0 +1,7 @@
+// 1.20.1	2023-10-12T22:55:00.020344	First Frame/Tags for minecraft:block
+3d60c1c4a2bea3c7d3bbcf010de3639e2f73e018 data\firstframe\tags\blocks\metal_detector_detectable_blocks.json
+53ac27d75ab62139ea1352504fcc2df0aeac99c9 data\fabric\tags\blocks\needs_tool_level_4.json
+a79c03e3badee70350f94fe183173d65ef6cef04 data\minecraft\tags\blocks\needs_diamond_tool.json
+dcd08824e4b64a4f5c8aa389aa685c027f7e8094 data\minecraft\tags\blocks\needs_stone_tool.json
+0d2f26323f87c080218f2d0e0ef670a758e09b30 data\minecraft\tags\blocks\mineable\pickaxe.json
+0463919a40528fab07327a805d2c5da0f0459b6b data\minecraft\tags\blocks\needs_iron_tool.json

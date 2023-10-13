@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "firstframe:hepatizon_ore",
+    "firstframe:hepatizon_block",
+    "firstframe:glass_crystal_block",
+    "firstframe:sound_block"
+  ]
+}

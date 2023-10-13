@@ -38,6 +38,9 @@ public class ModItemGroups {
                         entries.add(ModBlocks.GLASS_CRYSTAL_BLOCK);
                         entries.add(ModBlocks.HEPATIZON_ORE);
                         entries.add(ModItems.METAL_DETECTOR);
+                        entries.add(ModBlocks.SOUND_BLOCK);
+                        entries.add(ModItems.TOMATO);
+                        entries.add(ModItems.LAVA_SOLID);
 
                     }).build());
 

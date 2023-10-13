@@ -1,0 +1,5 @@
+// 1.20.1	2023-10-12T22:55:00.0162631	First Frame/Block Loot Tables
+f284116372323f12940a687237489ced3753711e data\firstframe\loot_tables\blocks\hepatizon_ore.json
+5c0a996db067b13a6c9fdc5ec6c1d971911e95f4 data\firstframe\loot_tables\blocks\hepatizon_block.json
+2074b71252c263694e4c3dbd75ce0106b858d483 data\firstframe\loot_tables\blocks\sound_block.json
+46f1415788db8b3da53820b8be42a063e71906a7 data\firstframe\loot_tables\blocks\glass_crystal_block.json

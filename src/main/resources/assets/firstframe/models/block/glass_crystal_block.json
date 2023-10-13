@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "firstframe:block/glass_crystal_block"
-  }
-}

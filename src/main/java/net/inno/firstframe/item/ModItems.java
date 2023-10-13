@@ -32,6 +32,10 @@ public class ModItems {
     public static final Item PAINT_BROWN = regiterItem("paint_brown", new Item(new FabricItemSettings()));
     public static final Item PAINT_BLACK = regiterItem("paint_black", new Item(new FabricItemSettings()));
     public static final Item METAL_DETECTOR = regiterItem("metal_detector", new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));
+    public static final Item TOMATO = regiterItem("tomato", new Item(new FabricItemSettings().food(ModFoodComponents.TOMATO)));
+    public static final Item LAVA_SOLID = regiterItem("lava_solid", new Item(new FabricItemSettings()));
+
+
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
 

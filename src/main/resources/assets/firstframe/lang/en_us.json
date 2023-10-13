@@ -23,6 +23,12 @@
   "block.firstframe.hepatizon_ore": "Hepatizon Ore",
 
   "item.firstframe.metal_detector": "Metal Detector",
+  "block.firstframe.sound_block": "Sound Block",
+
+  "item.firstframe.tomato": "Tomato",
+  "item.firstframe.lava_solid": "Solid Lava",
+
+  "tooltip.firstframe.metal_detector": "Finds Iron and Diamonds undergounrd!",
 
   "itemgroup.first_frame": "First Frame"
 }
