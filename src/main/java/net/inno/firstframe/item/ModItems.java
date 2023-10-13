@@ -4,6 +4,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.inno.firstframe.FirstFrame;
+import net.inno.firstframe.item.custom.MetalDetectorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
@@ -30,7 +31,7 @@ public class ModItems {
     public static final Item PAINT_CYAN = regiterItem("paint_cyan", new Item(new FabricItemSettings()));
     public static final Item PAINT_BROWN = regiterItem("paint_brown", new Item(new FabricItemSettings()));
     public static final Item PAINT_BLACK = regiterItem("paint_black", new Item(new FabricItemSettings()));
-
+    public static final Item METAL_DETECTOR = regiterItem("metal_detector", new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));
 
     private static void addItemsToIngredientsTab(FabricItemGroupEntries entries) {
 

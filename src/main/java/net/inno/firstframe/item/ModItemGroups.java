@@ -36,6 +36,8 @@ public class ModItemGroups {
                         entries.add(ModItems.SWIRLING_BOTTLE);
                         entries.add(ModBlocks.HEPATIZON_BLOCK);
                         entries.add(ModBlocks.GLASS_CRYSTAL_BLOCK);
+                        entries.add(ModBlocks.HEPATIZON_ORE);
+                        entries.add(ModItems.METAL_DETECTOR);
 
                     }).build());
 

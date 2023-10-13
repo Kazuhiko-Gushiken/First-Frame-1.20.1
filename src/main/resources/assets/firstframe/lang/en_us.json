@@ -20,6 +20,9 @@
 
   "block.firstframe.hepatizon_block": "Block of Hepatizon",
   "block.firstframe.glass_crystal_block": "Block of Glass Crystal",
+  "block.firstframe.hepatizon_ore": "Hepatizon Ore",
+
+  "item.firstframe.metal_detector": "Metal Detector",
 
   "itemgroup.first_frame": "First Frame"
 }
