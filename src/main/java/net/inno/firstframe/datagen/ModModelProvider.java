@@ -46,5 +46,6 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems.PAINT_PURPLE, Models.GENERATED);
         itemModelGenerator.register(ModItems.SWIRLING_BOTTLE, Models.GENERATED);
         itemModelGenerator.register(ModItems.TOMATO, Models.GENERATED);
+        itemModelGenerator.register(ModItems.RUIN_PROSPECTOR, Models.GENERATED);
     }
 }

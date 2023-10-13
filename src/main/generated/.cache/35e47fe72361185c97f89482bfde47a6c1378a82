@@ -1,4 +1,4 @@
-// 1.20.1	2023-10-12T22:55:00.0183441	First Frame/Model Definitions
+// 1.20.1	2023-10-13T14:12:48.2875693	First Frame/Model Definitions
 f11ac0359c6c3bc348d8b057cafda7ac53b7787c assets\firstframe\models\block\hepatizon_ore.json
 1eb2e13aed9875645bff7e49a4757ab38f87e28e assets\firstframe\models\item\paint_pink.json
 259cd47f838d4ecf40f95bf349c2435722642374 assets\firstframe\models\item\hepatizon_ore.json
@@ -27,9 +27,10 @@ ab21adfc768ea7dfd1d51a535aa6d98dc65d7fc4 assets\firstframe\models\item\glass_cry
 d2eb6d031088d0f06f6437c794f343ae554bfd85 assets\firstframe\models\block\hepatizon_block.json
 bd2f31e0737e7ad171fa03d6dbffe4691dd8343b assets\firstframe\models\item\paint_lacquer.json
 b7e9d57f80f8f11025f2f2e834c7e44fa7f2eca8 assets\firstframe\models\item\paint_black.json
+7749f428f0741d0db0a49cd60948611e919523c8 assets\firstframe\models\item\ruin_prospector.json
 e498d5c2e66ed49d9847ab144b83cdccb8561e5c assets\firstframe\models\item\swirling_bottle.json
 366c6515782b88fdbe0ef7637defc4f8a0408a1c assets\firstframe\models\item\paint_orange.json
 e3c8026b2c87bf650102fb018d3188989d3542a3 assets\firstframe\models\item\paint_cyan.json
 d7ff2506bb6d4af881b9823eeeef358e220ea85f assets\firstframe\blockstates\sound_block.json
-c0bfa517dd6191bac868f5aa5aa0ca255d8e2c9a assets\firstframe\models\block\glass_crystal_block.json
 645debf9148f8c13ce5f8937c0501267781ca2a9 assets\firstframe\models\item\paint_gray.json
+c0bfa517dd6191bac868f5aa5aa0ca255d8e2c9a assets\firstframe\models\block\glass_crystal_block.json

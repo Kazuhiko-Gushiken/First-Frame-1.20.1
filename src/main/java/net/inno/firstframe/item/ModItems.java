@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.inno.firstframe.FirstFrame;
 import net.inno.firstframe.item.custom.MetalDetectorItem;
+import net.inno.firstframe.item.custom.RuinProspectorItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroups;
 import net.minecraft.registry.Registries;
@@ -34,6 +35,7 @@ public class ModItems {
     public static final Item METAL_DETECTOR = regiterItem("metal_detector", new MetalDetectorItem(new FabricItemSettings().maxDamage(64)));
     public static final Item TOMATO = regiterItem("tomato", new Item(new FabricItemSettings().food(ModFoodComponents.TOMATO)));
     public static final Item LAVA_SOLID = regiterItem("lava_solid", new Item(new FabricItemSettings()));
+    public static final Item RUIN_PROSPECTOR = regiterItem("ruin_prospector", new RuinProspectorItem(new FabricItemSettings().maxDamage(20)));
 
 
 
